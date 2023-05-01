@@ -13,6 +13,7 @@
 
 - Run `npm run start:frontend` to start the frontend app
 - Run `npm run start:backend` to start the server 
+- Run `npm start` to concurrently run both the frontend and backend.
 
 
 
